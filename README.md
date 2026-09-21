@@ -1,16 +1,15 @@
-## Hi there 👋
+# Привіт, я Едуард! 👋
 
-<!--
-**Eduard-Zhaloba/Eduard-Zhaloba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Навчаюся за спеціальністю "Інженерія програмного забезпечення".
 
-Here are some ideas to get you started:
+## 🛠 Мови та технології
+* **Мови:** C++, JavaScript, Python
+* **Інструменти:** Git, GitHub, Linux, Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Про мене
+- 🔭 Наразі навчаюся та працюю над новими проєктами
+- 💬 Готовий до обговорення C++, веб-технологій та системного програмування
+- ⚡ Цікавлюся розробкою ПЗ та сучасними технологіями
+
+## 📊 Моя статистика GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eduard-Zhaloba&show_icons=true&theme=radial)
