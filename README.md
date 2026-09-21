@@ -12,4 +12,4 @@
 - ⚡ Цікавлюся розробкою ПЗ та сучасними технологіями
 
 ## 📊 Моя статистика GitHub
-![GitHub Stats](https://github-readme-stats-eight-now.vercel.app/api?username=Eduard-Zhaloba&show_icons=true&theme=radial)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eduard-Zhaloba&theme=zenburn)
